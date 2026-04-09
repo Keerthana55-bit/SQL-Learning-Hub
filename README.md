@@ -24,7 +24,20 @@ The application allows users to interact with a database using a web interface a
 [Visit Live App](https://dbms-project-csq9.onrender.com)
 
 ---
+## 📁 Project Structure
 
+The project structure inside `sql_learning_hub_flask.zip` is:
+
+```
+sql_learning_hub_flask/
+│── .idea/
+│── instance/
+│── static/
+│── templates/
+│── app.py
+```
+
+---
 ## 🚀 Features
 - User-friendly web interface  
 - Database integration for storing and retrieving data  
